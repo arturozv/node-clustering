@@ -1,0 +1,23 @@
+{
+  "name": "node-clustering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturozv/node-clustering.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturozv/node-clustering/issues"
+  },
+  "homepage": "https://github.com/arturozv/node-clustering#readme",
+  "dependencies": {
+    "bull": "^4.8.5",
+    "express": "^4.18.1"
+  }
+}
